@@ -1,0 +1,14 @@
+C:\Users\win10\source\repos\PowerLine_Test\bin\Debug\netcoreapp3.1\PowerLine_Test.exe
+C:\Users\win10\source\repos\PowerLine_Test\bin\Debug\netcoreapp3.1\PowerLine_Test.deps.json
+C:\Users\win10\source\repos\PowerLine_Test\bin\Debug\netcoreapp3.1\PowerLine_Test.runtimeconfig.json
+C:\Users\win10\source\repos\PowerLine_Test\bin\Debug\netcoreapp3.1\PowerLine_Test.runtimeconfig.dev.json
+C:\Users\win10\source\repos\PowerLine_Test\bin\Debug\netcoreapp3.1\PowerLine_Test.dll
+C:\Users\win10\source\repos\PowerLine_Test\bin\Debug\netcoreapp3.1\PowerLine_Test.pdb
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.AssemblyInfo.cs
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.dll
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.pdb
+C:\Users\win10\source\repos\PowerLine_Test\obj\Debug\netcoreapp3.1\PowerLine_Test.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+CREATE TABLE Customers(
+Id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT, 
+NAME VARCHAR(100)
+);
+
+CREATE TABLE Orders (
+Id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT, 
+CustomerId INT UNSIGNED,
+FOREIGN KEY (CustomerId) REFERENCES Customers(Id)
+);
+
+INSERT INTO Customers (Id,NAME) VALUES 
+(1,'Max'),(2,'Pavel'),(3,'Ivan'),(4,'Leonid');
+INSERT INTO Orders (Id,CustomerId) VALUES
+(1,2),(2,4);
+
+SELECT c.NAME AS customers 
+FROM customers AS c
+LEFT JOIN orders AS o
+ON(c.Id=o.CustomerId)
+WHERE o.Id IS NULL;
